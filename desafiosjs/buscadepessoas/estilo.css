@@ -12,10 +12,19 @@ header {
 section {
     background: white;
     border-radius: 10px;
-    padding: 15%;
+    padding: 15px;
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.226);
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+
+}
+#foto {
+    border-radius: 200px;
 }
 
 footer {
